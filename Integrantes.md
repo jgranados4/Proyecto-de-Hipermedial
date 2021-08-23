@@ -1,4 +1,3 @@
-# Proyecto-de-Hipermedial
 ## Integrantes 
 
 - Ariel 
