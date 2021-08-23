@@ -1,6 +1,6 @@
 # Proyecto-de-Hipermedial
 ## Integrantes 
 
--
--
--Juan Granados
+- Ariel 
+- issangie
+- Juan Granados
